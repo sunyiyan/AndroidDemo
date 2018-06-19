@@ -8,6 +8,8 @@ import android.os.Environment;
 
 public class SDCardUtils {
 
+
+    // "/mnt/usbhost1"; 这个也是U盘的路径
     /**
      * 检查SD卡是否存在
      */
